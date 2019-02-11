@@ -1,0 +1,4 @@
+cd
+setenv TEST test1
+env
+unsetenv TEST
